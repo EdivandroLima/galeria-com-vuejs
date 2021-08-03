@@ -20,4 +20,5 @@ Demonstração do projeto online: [Clique aqui](http://galeria-vuejs.epizy.com/)
 ### Build para produção com minificação
 ``` $ npm run build ```
 
+### Preview
 ![Preview](./src/assets/preview.png)
