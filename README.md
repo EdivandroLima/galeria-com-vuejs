@@ -1,7 +1,7 @@
 # Galeria de imagens com Vue.js
 Projeto para estudo e prática do framework Vue.js.
 
-Demonstração do projeto online: [Clique aqui](http://galeria-vuejs.epizy.com/)
+Demonstração do projeto online: [Clique aqui](http://vue-galeria.epizy.com/)
 
 ## Dependências
 - VueRouter
